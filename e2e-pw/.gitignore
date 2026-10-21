@@ -28,3 +28,8 @@ node_modules/
 /scratch-pr2.log
 /scratch-grnsave.cjs
 /scratch-grnsave.log
+/scratch-po.cjs
+/scratch-po.log
+/scratch-pr-flow.cjs
+/scratch-pr-flow.log
+/.cr_probe.mjs
